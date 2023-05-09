@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;700&family=Roboto:wght@100;500&display=swap');
 
 body {
-    background-color: rgb(182, 181, 181);
+    background-image: url(./dark.jpg);
+    background-repeat: no-repeat;
+    background-size: 115%;
+    background-position-y: top;
+    back
+    
+    /* background-color: rgb(182, 181, 181); */
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-left: 36%;
     margin-top: 2%;
@@ -10,6 +16,13 @@ body {
 
 input {
 	display: block;
+}
+
+ .logounita {
+    width: 50%;
+    margin-left: 480px;
+    margin-top: -30px;
+    opacity: 0%;
 }
 
 
@@ -138,8 +151,3 @@ input {background-color:rgb(207, 203, 203);
     margin-top: 250px;
 }
 
-.imagenlogo {
-    margin-top:495px ;
-    margin-left: 435px;
-    width: 1%;
-}
