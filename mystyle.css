@@ -3,7 +3,7 @@
 body {
     background-image: url(./dark.jpg)
     background-repeat: no-repeat;
-    background-size: 115%;
+    background-size: 100%;
     
     
      background-color: rgb(182, 181, 181); 
@@ -17,12 +17,12 @@ input {
 	display: block;
 }
 
- .logounita {
+ /*.logounita {
     width: 50%;
     margin-left: 480px;
     margin-top: -180px;
     opacity: 0%;
-}
+} */
 
 
 
