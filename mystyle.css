@@ -39,7 +39,7 @@ input {
     height: 250px;
     align-content: center;
     padding: 10px;
-    margin-left: 100px;
+    margin-left: -1px;
    
     
     
@@ -48,16 +48,17 @@ input {
   border-radius: 5px;
   box-shadow: opx 1px 7px;
     color: rgb(10, 10, 10);
-    width: 100%;
-    padding: 10px;
-    margin-top: 22px;
+    width: 95%;
+    padding: 15px;
+    margin-top: 40px;
+    margin-left: -195px;
     background-color: rgb(99, 243, 154);
     cursor: pointer;
 }
 
 .imagem {
     width: 490px;
-    margin-left: 500px;
+    margin-left: 480px;
     margin-top: -340px;
     margin-top:-420px ;
 
@@ -69,7 +70,7 @@ input {
 
 .imagen3 {
     width:210px ;
-    margin-left: 150px;
+    margin-left: 39px;
     margin-bottom: 5px;
    
     
@@ -84,8 +85,8 @@ input {background-color:rgb(207, 203, 203);
 
 
 .imagen2 {
-    margin-top:-820px ;
-    margin-left: -265px;
+    margin-top:-495px ;
+    margin-left: -435px;
     vertical-align: top;
     width: 330px;
 }
@@ -115,12 +116,12 @@ input {background-color:rgb(207, 203, 203);
     height: 250px;
    
     padding: 10px;
-    margin-left: -230px;
-    margin-top: -618px;
+    margin-left: -410px;
+    margin-top: -183px;
    
     
     
-}
+/*}
 .button2 {
   border-radius: 5px;
   box-shadow: opx 1px 7px;
@@ -130,10 +131,15 @@ input {background-color:rgb(207, 203, 203);
     margin-top: 22px;
     background-color: rgb(99, 243, 154);
     cursor: pointer;
-}
+} */
 
 
 .mover2 {
     margin-top: 250px;
 }
 
+.imagenlogo {
+    margin-top:495px ;
+    margin-left: 435px;
+    width: 1%;
+}
